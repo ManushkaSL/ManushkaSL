@@ -15,7 +15,7 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  MANUSHKA D. DISSANAYAKE                             ║
-║  ────────────────────────────────────────────────── ║
+║  ──────────────────────────────────────────────────  ║
 ║  CLASS  :  Fullstack Developer                       ║
 ║  ROLE   :  Mobile + Web Engineer                     ║
 ║  GUILD  :  BSc Computer Science (Undergrad)          ║
@@ -67,7 +67,7 @@
   Mythic    :  Full Cross-Platform App (Mobile + Web)
 ```
 
----
+<!-----
 
 ### ACHIEVEMENTS UNLOCKED
 
@@ -104,7 +104,7 @@
 ║  STATUS :  In Progress                               ║
 ║  REWARD :  Degree + XP Boost                         ║
 ╚══════════════════════════════════════════════════════╝
-```
+``` -->
 
 ---
 
