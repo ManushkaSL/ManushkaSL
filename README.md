@@ -9,14 +9,11 @@
 
 ### About Me
 
-| | |
-|---|---|
-| 👤 **Name** | Manushka D. Dissanayake |
-| 💼 **Role** | Mobile App Developer · Web Fullstack Developer |
-| 🎓 **Education** | BSc Computer Science (Undergraduate) |
-| 🛠️ **Focus** | Flutter · Dart · React · Next.js |
-| 🚀 **Status** | Open to internships & collaborations |
-| 💬 **Motto** | *Ship clean code. Solve real problems.* |
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1000&pause=200&color=4A90E2&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=160&lines=+name++++%3A+%22Manushka+D.+Dissanayake%22%2C;+role++++%3A+%5B%22Mobile+App+Dev%22%2C+%22Web+Fullstack+Dev%22%5D%2C;+education+%3A+%22BSc+Computer+Science+(Undergraduate)%22%2C;+focus+++%3A+%5B%22Flutter%22%2C+%22Dart%22%2C+%22React%22%2C+%22Next.js%22%5D%2C;+status++%3A+%22Open+to+internships+%26+collaborations%22%2C;+motto+++%3A+%22Ship+clean+code.+Solve+real+problems.%22" alt="About Me" />
+
+</div>
 
 ---
 
