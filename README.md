@@ -15,8 +15,8 @@
 ║  MANUSHKA D. DISSANAYAKE                             ║
 ║  ──────────────────────────────────────────────────  ║
 ║  CLASS  :  Fullstack Developer                       ║
-║  ROLE   :  Mobile + Web Engineer                     ║
-║  GUILD  :  BSc Computer Science (Undergrad)          ║
+║  ROLE   :  Mobile & Web Developer                    ║
+║  GUILD  :  BSc in Computer Science (Undergrad)       ║
 ║  STATUS :  Open to Quests & Internships              ║
 ║  MOTTO  :  Ship clean code. Solve real problems.     ║
 ╚══════════════════════════════════════════════════════╝
