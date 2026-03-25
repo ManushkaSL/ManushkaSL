@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=800&color=00FF88&center=true&vCenter=true&width=700&height=60&lines=%E2%96%BA+PLAYER+ONE+HAS+ENTERED+THE+GAME...;%E2%96%BA+MANUSHKA+D.+DISSANAYAKE;%E2%96%BA+FULLSTACK+DEV+%7C+BSc+CS+STUDENT" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=2000&color=00FF88&center=true&vCenter=true&width=750&height=70&lines=%5B+MANUSHKA+D.+DISSANAYAKE+%5D;%5B+FULLSTACK+DEV+%7C+BSc+CS+%5D;%5B+PLAYER+ONE+READY+%5D" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=%3E+Summoning+Firebase+Fireballs...+%F0%9F%94%A5;%3E+Leveling+up+TypeScript+spells...+%E2%9A%A1;%3E+Optimizing+React+kingdom...+%F0%9F%8F%B0;%3E+Deploying+Flutter+armies...+%F0%9F%92%99;%3E+Building+clean+%26+scalable+products...+%E2%9C%85" alt="Subheader" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=%3E+Summoning+Firebase+Fireballs...;%3E+Leveling+up+TypeScript+spells...;%3E+Optimizing+React+kingdom...;%3E+Deploying+Flutter+armies...;%3E+Building+clean+%26+scalable+products..." alt="Subheader" />
 
 </div>
 
@@ -11,22 +11,22 @@
 ### 🧙 PLAYER STATS
 
 ```
-╔══════════════════════════════════════════════════╗
-║  👾  MANUSHKA D. DISSANAYAKE                     ║
-║  ──────────────────────────────────────────────  ║
-║  CLASS    :  Fullstack Developer                 ║
-║  ROLE     :  Mobile + Web Engineer               ║
-║  GUILD    :  BSc Computer Science (Undergrad)    ║
-║  LEVEL    :  23  ⚔️                              ║
-║  XP       :  ████████████░░░░  12,450 / 20,000  ║
-║  STATUS   :  Open to Quests & Internships 🗺️     ║
-║  MOTTO    :  Ship clean code. Solve real probs.  ║
-╚══════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║  MANUSHKA D. DISSANAYAKE                             ║
+║  ────────────────────────────────────────────────── ║
+║  CLASS  :  Fullstack Developer                       ║
+║  ROLE   :  Mobile + Web Engineer                     ║
+║  GUILD  :  BSc Computer Science (Undergrad)          ║
+║  LEVEL  :  23                                        ║
+║  XP     :  ████████████░░░░  12,450 / 20,000         ║
+║  STATUS :  Open to Quests & Internships              ║
+║  MOTTO  :  Ship clean code. Solve real problems.     ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ---
 
-### ⚔️ SKILL TREE
+### SKILL TREE
 
 **[ MOBILE SPELLS ]**
 
@@ -55,58 +55,58 @@
 
 ---
 
-### 🎒 INVENTORY & LEGENDARY GEAR
+### INVENTORY & LEGENDARY GEAR
 
 ```
-🔹 Common Gear   :  Git, VS Code, Figma, Postman
-🔹 Rare Gear     :  Flutter, Dart, React, Node.js, Firebase
-🔹 Epic Gear     :  Supabase, PostgreSQL, TypeScript, Tailwind
-🔸 Legendary     :  Next.js + TypeScript  ✨ [UNLOCKED]
-🔸 Mythic        :  Full Cross-Platform App (Mobile + Web)  🏅
-```
-
----
-
-### 🏆 ACHIEVEMENTS UNLOCKED
-
-```
-🏆  First Flutter App Deployed            [UNLOCKED] ✅
-💻  Created Multiple GitHub Repositories  [UNLOCKED] ✅
-🌐  Deployed Next.js Project to Vercel    [UNLOCKED] ✅
-🔥  Maintained Coding Streak              [UNLOCKED] ✅
-🤝  Open Source Contributor               [IN PROGRESS] 🔄
-🥇  Hackathon Champion                    [LOCKED] 🔒
+  Common    :  Git, VS Code, Figma
+  Rare      :  Flutter, Dart, React, Node.js, Firebase
+  Epic      :  Supabase, PostgreSQL, TypeScript, Tailwind
+  Legendary :  Next.js + TypeScript  [UNLOCKED]
+  Mythic    :  Full Cross-Platform App (Mobile + Web)
 ```
 
 ---
 
-### 🗺️ ACTIVE QUESTS — PROJECT SHOWCASE
+### ACHIEVEMENTS UNLOCKED
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  QUEST  :  SC Courier App 🚚                             ║
-║  STACK  :  Flutter + Firebase                            ║
-║  DIFF   :  ⚔️⚔️⚔️                                      ║
-║  STATUS :  Completed ✅                                  ║
-║  REWARD :  Real-time delivery system experience 🎁       ║
-╠══════════════════════════════════════════════════════════╣
-║  QUEST  :  Ceylon Soft Portfolio 🌐                      ║
-║  STACK  :  Next.js + TypeScript + Tailwind               ║
-║  DIFF   :  ⚔️⚔️                                        ║
-║  STATUS :  Completed ✅                                  ║
-║  REWARD :  Full production web deployment 🎁             ║
-╠══════════════════════════════════════════════════════════╣
-║  QUEST  :  BSc CS Final Year Project 🎓                  ║
-║  STACK  :  TBD                                           ║
-║  DIFF   :  ⚔️⚔️⚔️⚔️                                    ║
-║  STATUS :  In Progress 🔄                                ║
-║  REWARD :  Degree + XP Boost 🎁                          ║
-╚══════════════════════════════════════════════════════════╝
+  [UNLOCKED]     First Flutter App Deployed
+  [UNLOCKED]     Deployed Next.js Project to Vercel
+  [UNLOCKED]     Maintained Coding Streak
+  [UNLOCKED]     Built & Shipped Multiple Projects
+  [IN PROGRESS]  Open Source Contributor
+  [LOCKED]       Hackathon Champion
 ```
 
 ---
 
-### 📊 BATTLE HISTORY
+### ACTIVE QUESTS — PROJECT SHOWCASE
+
+```
+╔══════════════════════════════════════════════════════╗
+║  QUEST  :  SC Courier App                            ║
+║  STACK  :  Flutter + Firebase                        ║
+║  DIFF   :  *** (Hard)                                ║
+║  STATUS :  Completed                                 ║
+║  REWARD :  Real-time delivery system experience      ║
+╠══════════════════════════════════════════════════════╣
+║  QUEST  :  Ceylon Soft Portfolio                     ║
+║  STACK  :  Next.js + TypeScript + Tailwind           ║
+║  DIFF   :  ** (Medium)                               ║
+║  STATUS :  Completed                                 ║
+║  REWARD :  Full production web deployment            ║
+╠══════════════════════════════════════════════════════╣
+║  QUEST  :  BSc CS Final Year Project                 ║
+║  STACK  :  TBD                                       ║
+║  DIFF   :  **** (Epic)                               ║
+║  STATUS :  In Progress                               ║
+║  REWARD :  Degree + XP Boost                         ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+### BATTLE HISTORY
 
 <div align="center">
 
@@ -123,31 +123,19 @@
 
 ---
 
-### 🗡️ BATTLE LOG — Recent Activity
+### CURRENT TRAINING GROUNDS
 
 ```diff
-⚡  Optimized database queries          → +150 XP
-🛡️  Deployed landing page to Vercel    → +200 XP
-🗡️  Fixed critical login bug           → +300 XP
-🔮  Integrated Supabase auth           → +250 XP
-🏰  Scaffolded Next.js project         → +100 XP
++ [ACTIVE]     Building cross-platform mobile apps with Flutter
++ [ACTIVE]     Crafting fullstack web apps with Next.js + TypeScript
+~ [GRINDING]   Mastering system design & software architecture
+~ [GRINDING]   Exploring cloud infrastructure & DevOps
+! [SIDE QUEST] Contributing to open source projects
 ```
 
 ---
 
-### 🌐 CURRENT TRAINING GROUNDS
-
-```diff
-+ [ACTIVE]       Building cross-platform mobile apps with Flutter
-+ [ACTIVE]       Crafting fullstack web apps with Next.js + TypeScript
-~ [GRINDING]     Mastering system design & software architecture
-~ [GRINDING]     Exploring cloud infrastructure & DevOps
-! [SIDE QUEST]   Contributing to open source projects
-```
-
----
-
-### 🔗 CONNECT & JOIN PARTY
+### CONNECT & JOIN PARTY
 
 <div align="center">
 
@@ -159,6 +147,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=00FF8855&center=true&vCenter=true&width=500&lines=%3E+GAME+NOT+OVER...+STILL+LEVELING+UP+%F0%9F%8E%AE" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=00FF8877&center=true&vCenter=true&width=500&lines=%3E+GAME+NOT+OVER...+STILL+LEVELING+UP" alt="Footer" />
 
 </div>
