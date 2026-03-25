@@ -13,7 +13,7 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  MANUSHKA D. DISSANAYAKE                             ║
-║  ────────────────────────────────────────────────── ║
+║  ──────────────────────────────────────────────────  ║
 ║  CLASS  :  Fullstack Developer                       ║
 ║  ROLE   :  Mobile + Web Engineer                     ║
 ║  GUILD  :  BSc Computer Science (Undergrad)          ║
