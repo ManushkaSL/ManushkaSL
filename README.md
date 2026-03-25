@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff88,100:00bfff&height=200&section=header&text=MANUSHKA%20D.%20DISSANAYAKE&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%26%20Web%20Fullstack%20Developer%20%7C%20BSc%20CS%20Student&descAlignY=58&descColor=00ff88&animation=fadeIn" alt="Header Banner" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=2000&color=00FF88&center=true&vCenter=true&width=750&height=70&lines=%5B+MANUSHKA+D.+DISSANAYAKE+%5D;%5B+FULLSTACK+DEV+%7C+BSc+CS+%5D;%5B+PLAYER+ONE+READY+%5D" alt="Header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=%3E+Summoning+Firebase+Fireballs...;%3E+Leveling+up+TypeScript+spells...;%3E+Optimizing+React+kingdom...;%3E+Deploying+Flutter+armies...;%3E+Building+clean+%26+scalable+products..." alt="Subheader" />
@@ -13,7 +15,7 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  MANUSHKA D. DISSANAYAKE                             ║
-║  ──────────────────────────────────────────────────  ║
+║  ────────────────────────────────────────────────── ║
 ║  CLASS  :  Fullstack Developer                       ║
 ║  ROLE   :  Mobile + Web Engineer                     ║
 ║  GUILD  :  BSc Computer Science (Undergrad)          ║
@@ -150,3 +152,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=00FF8877&center=true&vCenter=true&width=500&lines=%3E+GAME+NOT+OVER...+STILL+LEVELING+UP" alt="Footer" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:00ff88,100:0d0d0d&height=120&section=footer" alt="Footer Banner" />
