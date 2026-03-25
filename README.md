@@ -9,16 +9,14 @@
 
 ### About Me
 
-```ts
-const developer = {
-  name:       "Manushka D. Dissanayake",
-  role:       ["Mobile App Developer", "Web Fullstack Developer"],
-  education:  "BSc Computer Science (Undergraduate)",
-  focus:      ["Flutter", "Dart", "React", "Next.js"],
-  status:     "Open to internships & collaborations",
-  motto:      "Ship clean code. Solve real problems.",
-};
-```
+| | |
+|---|---|
+| 👤 **Name** | Manushka D. Dissanayake |
+| 💼 **Role** | Mobile App Developer · Web Fullstack Developer |
+| 🎓 **Education** | BSc Computer Science (Undergraduate) |
+| 🛠️ **Focus** | Flutter · Dart · React · Next.js |
+| 🚀 **Status** | Open to internships & collaborations |
+| 💬 **Motto** | *Ship clean code. Solve real problems.* |
 
 ---
 
@@ -55,12 +53,12 @@ const developer = {
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&title_color=4A90E2&icon_color=4A90E2&text_color=333&bg_color=ffffff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true&title_color=4A90E2&text_color=333&bg_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ManushkaSL&show_icons=true&theme=default&hide_border=true&title_color=4A90E2&icon_color=4A90E2&text_color=333&bg_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManushkaSL&layout=compact&theme=default&hide_border=true&title_color=4A90E2&text_color=333&bg_color=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=default&hide_border=true&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ManushkaSL&theme=default&hide_border=true&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" />
 </div>
 
 ---
@@ -78,15 +76,8 @@ const developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manushka-divyan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ceylon-soft-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manushkadivyan@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=4A90E2&label=Profile+Views" />
 </div>
