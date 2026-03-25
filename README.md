@@ -19,8 +19,6 @@
 ║  CLASS  :  Fullstack Developer                       ║
 ║  ROLE   :  Mobile + Web Engineer                     ║
 ║  GUILD  :  BSc Computer Science (Undergrad)          ║
-║  LEVEL  :  23                                        ║
-║  XP     :  ████████████░░░░  12,450 / 20,000         ║
 ║  STATUS :  Open to Quests & Internships              ║
 ║  MOTTO  :  Ship clean code. Solve real problems.     ║
 ╚══════════════════════════════════════════════════════╝
